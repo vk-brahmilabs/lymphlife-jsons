@@ -1,0 +1,77 @@
+{
+  "page-info": {
+    "page": "0",
+    "rows-per-page": "5",
+    "total-rows": "3"
+  },
+  "equipment": [
+    {
+      "id": "ki09wga",
+      "equipmentid": "EQ1",
+      "equipmentname": "Lymphstar Fusion®",
+      "makemodelyear": "Fusion 2017",
+      "serialnumber": "LF20171206X12345",
+      "manufacturer": "Lymphstar INC USA",
+      "clinics": [
+        "Lymph Life Fountain Hills",
+        "Lymph Life Scottsdale",
+        "Lymph Life Mesa"
+      ],
+      "treatments": [
+        "Energy Healing for Children",
+        "Special Treatment"
+      ],
+      "notes": {
+        "blocks": [
+          {
+            "key": "e9hp2",
+            "text": "lorum ipsum...",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "jk98w0i",
+      "equipmentid": "EQ2",
+      "equipmentname": "Lymphstar Pro®",
+      "makemodelyear": "Pro 2019",
+      "serialnumber": "LP20190708X98765",
+      "manufacturer": "Lymphstar INC USA",
+      "clinics": [
+        "Lymph Life Fountain Hills",
+        "Lymph Life Scottsdale",
+        "Lymph Life Mesa"
+      ],
+      "treatments": [
+        "Lymphatic Facial",
+        "Lymphatic Treatment"
+      ],
+      "notes": {
+        "blocks": [
+          {
+            "key": "dlqam",
+            "text": "dolor amit",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    }
+  ]
+}

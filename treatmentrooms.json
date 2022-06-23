@@ -1,0 +1,154 @@
+{
+  "page-info": {
+    "page": "0",
+    "rows-per-page": "5",
+    "total-rows": "3"
+  },
+  "treatmentrooms": [
+    {
+      "id": "jhwi89s",
+      "trid": "TR1",
+      "location": "Fountain Hills",
+      "clinic": "Lymph Life Fountain Hills",
+      "treatmentroom": "Room A",
+      "treatments": [
+        "Energy Healing for Children",
+        "Lymphatic Facial",
+        "Lymphatic Treatment",
+        "Lymphatic Therapy"
+      ],
+      "therapists": [
+        "Kylee Leewan",
+        "Salal Shelton"
+      ],
+      "trainees": [
+        "Jane Doe",
+        "Dora Mendiz"
+      ],
+      "equipment": [
+        "Lymphstar Pro®",
+        "Lymphstar Fusion"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "lk9hfs4",
+      "trid": "TR2",
+      "location": "Fountain Hills",
+      "clinic": "Lymph Life Fountain Hills",
+      "treatmentroom": "Room B",
+      "treatments": [
+        "Lymphatic Facial",
+        "Lymphatic Treatment"
+      ],
+      "therapists": [
+        "Adaline Becka"
+      ],
+      "trainees": [
+        "Dora Mendiz"
+      ],
+      "equipment": [
+        "Lymphstar Pro®",
+        "Lymphstar Fusion"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "kujggy6",
+      "trid": "TR1",
+      "location": "Mesa",
+      "clinic": "Lymph Life Mesa",
+      "treatmentroom": "Room A",
+      "treatments": [
+        "Lymphatic Facial",
+        "Lymphatic Treatment"
+      ],
+      "therapists": [
+        "Adaline Becka",
+        "Orana Taleebin"
+      ],
+      "trainees": [],
+      "equipment": [
+        "Lymphstar Pro®"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "uihgj8h",
+      "trid": "TR1",
+      "location": "Mesa",
+      "clinic": "Lymph Life Mesa",
+      "treatmentroom": "Room A",
+      "treatments": [
+        "Special Treatment"
+      ],
+      "therapists": [
+        "Kylee Leewan",
+        "Salal Shelton"
+      ],
+      "trainees": [
+        "Sarah Pane"
+      ],
+      "equipment": [
+        "Lymphstar Pro®"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "bjhyu9j",
+      "trid": "TR2",
+      "location": "Scottsdale",
+      "clinic": "Lymph Life Scottsdale",
+      "treatmentroom": "Room B",
+      "treatments": [
+        "Special Treatment"
+      ],
+      "therapists": [
+        "Kylee Leewan",
+        "Salal Shelton"
+      ],
+      "trainees": [],
+      "equipment": [
+        "Lymphstar Pro®"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "jwi9hda",
+      "trid": "TR3",
+      "location": "Scottsdale",
+      "clinic": "Lymph Life Scottsdale",
+      "treatmentroom": "Room C",
+      "treatments": [
+        "Special Treatment"
+      ],
+      "therapists": [
+        "Kylee Leewan",
+        "Salal Shelton"
+      ],
+      "trainees": [],
+      "equipment": [
+        "Lymphstar Pro®"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    }
+  ]
+}

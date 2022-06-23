@@ -1,0 +1,151 @@
+{
+  "page-info": {
+    "page": "0",
+    "rows-per-page": "5",
+    "total-rows": "3"
+  },
+  "treatments": [
+    {
+      "id": "njhei7h",
+      "tmid": "T01",
+      "treatment": "Energy Healing for Children",
+      "locations": [
+        "Fountain Hills",
+        "Scottsdale",
+        "Mesa"
+      ],
+      "clinics": [
+        "Lymph Life Fountain Hills",
+        "Lymph Life Scottsdale",
+        "Lymph Life Mesa"
+      ],
+      "treatmentrooms": [
+        "Room A",
+        "Room B"
+      ],
+      "therapists": [
+        "Kylee Leewan",
+        "Salal Shelton"
+      ],
+      "trainees": [
+        "Jane Doe",
+        "Dora Mendiz"
+      ],
+      "equipment": [
+        "Lymphstar Pro®",
+        "Lymphstar Fusion"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "ju98ggd",
+      "tmid": "T02",
+      "treatment": "Lymphatic Facial",
+      "locations": [
+        "Fountain Hills",
+        "Scottsdale",
+        "Mesa"
+      ],
+      "clinics": [
+        "Lymph Life Fountain Hills",
+        "Lymph Life Scottsdale",
+        "Lymph Life Mesa"
+      ],
+      "treatmentrooms": [
+        "Room A",
+        "Room B",
+        "Room A"
+      ],
+      "therapists": [
+        "Adaline Becka",
+        "Salal Shelton"
+      ],
+      "trainees": [
+        "Dora Mendiz"
+      ],
+      "equipment": [
+        "Lymphstar Pro®"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "hi8h9ig",
+      "tmid": "T03",
+      "treatment": "Lymphatic Treatment",
+      "locations": [
+        "Fountain Hills",
+        "Scottsdale"
+      ],
+      "clinics": [
+        "Lymph Life Fountain Hills",
+        "Lymph Life Scottsdale"
+      ],
+      "treatmentrooms": [
+        "Room A",
+        "Room A"
+      ],
+      "therapists": [
+        "Adaline Becka",
+        "Salal Shelton"
+      ],
+      "trainees": [],
+      "equipment": [
+        "Lymphstar Pro®"
+      ],
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "i80frsa",
+      "tmid": "T04",
+      "treatment": "Special Treatment",
+      "locations": [
+        "Fountain Hills",
+        "Scottsdale"
+      ],
+      "clinics": [
+        "Lymph Life Fountain Hills",
+        "Lymph Life Scottsdale"
+      ],
+      "treatmentrooms": [
+        "Room B",
+        "Room C"
+      ],
+      "therapists": [
+        "Salal Shelton"
+      ],
+      "trainees": [
+        "Sarah Pane"
+      ],
+      "equipment": [
+        "Lymphstar Pro®",
+        "Lymphstar Fusion"
+      ],
+      "notes": {
+        "blocks": [
+          {
+            "key": "8padd",
+            "text": "Lorum ipsum. dolor...",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    }
+  ]
+}

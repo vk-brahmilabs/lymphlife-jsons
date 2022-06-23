@@ -1,0 +1,129 @@
+{
+  "page-info": {
+    "page": "0",
+    "rows-per-page": "5",
+    "total-rows": "3"
+  },
+  "administration": [
+    {
+      "id": "jhguay1",
+      "adminid": "AD001",
+      "clinics": "Lymph Life Fountain Hills",
+      "staff": [
+        {
+          "type": "Therapists/Consultants",
+          "count": "3"
+        },
+        {
+          "type": "Assistants/Trainees",
+          "count": "2"
+        },
+        {
+          "type": "Receptionists",
+          "count": "1"
+        },
+        {
+          "type": "Accountant",
+          "count": "1"
+        },
+        {
+          "type": "Administrator",
+          "count": "1"
+        }
+      ],
+      "clients": "28",
+      "phone": "480.420.4981",
+      "email": "fhcontact@lymphlifeaz.com",
+      "address": "15761 Centipede Drive, Fountain Hills, AZ 85268",
+      "notes": {
+        "blocks": [
+          {
+            "key": "3hp72",
+            "text": "Lorum Ipsum Dolor Amit",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "edit": "true",
+      "delete": "true",
+      "mark": "true",
+      "clinic": "Lymph Life Fountain Hills",
+      "note": "Lorum ipsum"
+    },
+    {
+      "id": "jgjket9",
+      "adminid": "AD002",
+      "clinics": "Lymph Life Mesa",
+      "staff": [
+        {
+          "type": "Therapists/Consultants",
+          "count": "1"
+        },
+        {
+          "type": "Assistants/Trainees",
+          "count": "1"
+        },
+        {
+          "type": "Receptionists",
+          "count": "0"
+        },
+        {
+          "type": "Accountant",
+          "count": "0"
+        },
+        {
+          "type": "Administrator",
+          "count": "0"
+        }
+      ],
+      "clients": "12",
+      "phone": "480.420.4981",
+      "email": "mscontact@lymphlifeaz.com",
+      "address": "2812 N Norwalk Suite 122, Mesa, AZ 85215",
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    },
+    {
+      "id": "gu78jtg",
+      "adminid": "AD003",
+      "clinics": "Lymph Life Scottsdale",
+      "staff": [
+        {
+          "type": "Therapists/Consultants",
+          "count": "2"
+        },
+        {
+          "type": "Assistants/Trainees",
+          "count": "2"
+        },
+        {
+          "type": "Receptionists",
+          "count": "1"
+        },
+        {
+          "type": "Accountant",
+          "count": "0"
+        },
+        {
+          "type": "Administrator",
+          "count": "0"
+        }
+      ],
+      "clients": "67",
+      "phone": "480.420.4981",
+      "email": "sdcontact@lymphlifeaz.com",
+      "address": "5678 N Cactus Suite 901, Scottsdale, AZ 85333",
+      "notes": {},
+      "edit": "true",
+      "delete": "true",
+      "mark": "true"
+    }
+  ]
+}
